@@ -23,3 +23,12 @@ Estrutura dos arquivos e pastas
 
 Será referenciado com a notação: <br>
 ### <b>\<app-home>\</app-home></b>
+
+
+Aprender sobre configuration (package.json, tsconfig.json, angular.json)
+
+
+## Start
+<b>main.ts --> porta de entrada (carrega o AppModule)</b>
+* Organizados em componentes que são organizados por módulos
+* Garante o encapsulamento (um módulo pode ter seu acesso controlado)
